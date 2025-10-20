@@ -12,6 +12,7 @@ public class codelab1 {
             };
 
             System.out.println("Jadwal Kuliah Minggu Ini:");
+            System.out.println("Meledeakkkk");
             System.out.println("----------------------------");
             for (String[] mataKuliah : jadwal) {
                 System.out.printf(" %s/n, %-10s | %-25s | %s%n", nama, mataKuliah[0], mataKuliah[1], mataKuliah[2]);
